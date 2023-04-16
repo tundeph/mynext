@@ -1,11 +1,9 @@
 import React from "react"
-import Navbar from "../../components/navbar"
 
 const Address = () => {
 	return (
 		<div>
-			<Navbar />
-			Address
+			<h1>Address </h1>
 		</div>
 	)
 }
